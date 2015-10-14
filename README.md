@@ -1,5 +1,4 @@
 # Algorithm 
-===
 ### LeetCode algorithm
 "&hearts;"
 |NO.| Title |Solution|Difficulty|
