@@ -1,6 +1,7 @@
 # Algorithm 
 ### LeetCode algorithm
 "&hearts;"
+
 |NO.| Title |Solution|Difficulty|
 |:--| :---: |:----:|:----:|
 |-|第一个只出现一次的数| [C++](./FirstAppearOnce/FirstAppearOnce.cpp)|easy|
