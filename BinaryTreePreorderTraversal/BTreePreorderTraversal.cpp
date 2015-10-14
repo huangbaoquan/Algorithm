@@ -15,6 +15,7 @@ return [1,2,3].
 
 #include <iostream>
 #include <vector>
+#include <stack>
 using namespace std;
 
 struct TreeNode {
@@ -60,7 +61,7 @@ void preOrder(TreeNode* T)
 vector<int> preorderTraversal(TreeNode* root)
 {
 	vector<int> result;
-	stact<int> S;
+	stack<int> S;
 	return result;
 }
 
