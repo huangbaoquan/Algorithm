@@ -17,4 +17,5 @@
 
 |NO.| Title |Solution|Difficulty|
 |:--| :---: |:----:|:----:|
+|2|[valid phone number](https://leetcode.com/problems/valid-phone-numbers/) | [bash](./shell/ValidPhoneNumbers/ValidPhoneNumbers.sh)|easy|
 |1|[word frequency](https://leetcode.com/problems/word-frequency/) | [bash](./shell/Wordfrequency/wordfrequency.sh)|Medium|
