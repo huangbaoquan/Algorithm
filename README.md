@@ -4,6 +4,7 @@
 
 |NO.| Title |Solution|Difficulty|
 |:--| :---: |:----:|:----:|
+|144|二叉树的先序遍历| [C++](./BinaryTreePreorderTraversal/BTreePreorderTraversal.cpp)|middle|
 |-|第一个只出现一次的数| [C++](./FirstAppearOnce/FirstAppearOnce.cpp)|easy|
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
 |136|[Single Number](https://leetcode.com/problemset/algorithms/)| [C++](./SingleNumber/SingleNumber.cpp)|middle|
