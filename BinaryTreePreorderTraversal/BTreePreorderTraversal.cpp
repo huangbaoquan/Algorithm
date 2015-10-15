@@ -62,20 +62,22 @@ void preOrder(TreeNode* T)
  */
 vector<int> preorderTraversal(TreeNode* root)
 {
-	printf("Traversal:\n");
 	vector<int> result;
-	stack<TreeNode*> S;
-	S.push(root);
-	while(!S.empty())
+	if(root != NULL)
 	{
-		TreeNode* temp = S.top();
-		S.pop();
-		printf("%d ",temp->val);
-		result.push_back(temp->val);
-		if(temp->right)
-			S.push(temp->right);
-		if(temp->left)
-			S.push(temp->left);
+		stack<TreeNode*> S;
+		S.push(root);
+		while(!S.empty())
+		{
+			TreeNode* temp = S.top();
+			S.pop();
+			printf("%d ",temp->val);
+			result.push_back(temp->val);
+			if(temp->right)
+				S.push(temp->right);
+			if(temp->left)
+				S.push(temp->left);
+		}
 	}
 	return result;
 }
