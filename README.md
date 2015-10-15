@@ -15,4 +15,6 @@
 ### LeetCode Shell
 "&hearts;"
 
+|NO.| Title |Solution|Difficulty|
+|:--| :---: |:----:|:----:|
 |1|[word frequency](https://leetcode.com/problems/word-frequency/) | [bash](./shell/Wordfrequency/wordfrequency.sh)|Medium|
