@@ -57,11 +57,26 @@ void preOrder(TreeNode* T)
 	preOrder(T->left);
 	preOrder(T->right);
 }
-
+/**
+ * tranversal Tree 
+ */
 vector<int> preorderTraversal(TreeNode* root)
 {
+	printf("Traversal:\n");
 	vector<int> result;
-	stack<int> S;
+	stack<TreeNode*> S;
+	S.push(root);
+	while(!S.empty())
+	{
+		TreeNode* temp = S.top();
+		S.pop();
+		printf("%d ",temp->val);
+		result.push_back(temp->val);
+		if(temp->right)
+			S.push(temp->right);
+		if(temp->left)
+			S.push(temp->left);
+	}
 	return result;
 }
 
@@ -70,4 +85,6 @@ int main()
 	TreeNode* treeNode;
 	TreeNode* T = CreateTree(treeNode);
 	preOrder(T);
+	printf("\n");
+	preorderTraversal(T);
 }
