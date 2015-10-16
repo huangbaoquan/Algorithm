@@ -10,7 +10,7 @@
 |18|[复制复杂链表](http://www.jiuzhang.com/problem/18/) | [C++](./CopyLinklist/CopyLinklist.cpp)|Medium|
 |14|[超过一半的数](http://www.jiuzhang.com/problem/14/) | [C++](./OverHalfNumber/OverHalfNumber.cpp)|Medium|
 |7|[树的分层遍历](http://www.jiuzhang.com/problem/7/) | C++|Medium|
-|-|二叉树的中序遍历|[C++](./BinaryTreeInorderTraversal/BTreeInorderTraversal.cpp)|Medium|
+|-|二叉树的中序遍历|[C++](./BinaryTreeInorderTraversal/BTreeInorderTravesal.cpp)|Medium|
 |-|第一个只出现一次的数| [C++](./FirstAppearOnce/FirstAppearOnce.cpp)|easy|
 
 ### LeetCode Shell
