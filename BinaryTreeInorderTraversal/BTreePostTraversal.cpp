@@ -73,12 +73,12 @@ vector<int> postorderTraversal(TreeNode* root)
 		while(!stk1.empty())
 		{
 			TreeNode* p = stk1.top();
-			stk1.pop();
 			stk2.push(p);
-			if(p->right)
-				stk1.push(p->right);
+			stk1.pop();
 			if(p->left)
 				stk1.push(p->left);
+			if(p->right)
+				stk1.push(p->right);
 		}
 		while(!stk2.empty())
 		{
