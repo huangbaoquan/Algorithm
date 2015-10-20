@@ -15,7 +15,7 @@
 |-|[排列组合子字符串]() | [C++](./subString/permutationSubstring.cpp)|easy|
 |-|二叉树的中序遍历|[C++](./BinaryTreeInorderTraversal/BTreeInorderTravesal.cpp)|Medium|
 |-|第一个只出现一次的数| [C++](./FirstAppearOnce/FirstAppearOnce.cpp)|easy|
-|-|BigOrLittle Endian| [C++](./FirstAppearOnce/isBigEndian.cpp)|easy|
+|-|Big Or Little Endian| [C++](./FirstAppearOnce/isBigEndian.cpp)|easy|
 
 ### LeetCode Shell
 "&hearts;"
