@@ -18,6 +18,7 @@
 #include <iostream>
 using namespace std;
 
+//优雅
 int countZero(int num)
 {
 	int count;
@@ -26,7 +27,25 @@ int countZero(int num)
 		count += num / 5;
 		num /= 5;
 	}
-	printf("%d",count);
+	printf("%d\n",count);
+	return count;
+}
+
+//普通
+int countZero1(int num)
+{
+	int count = 0;
+	int j;
+	for(int i=1;i<=num;i++)
+	{
+		j = i;
+		while(0 == j%5)
+		{
+			count++;
+			j/=5;
+		}
+	}
+	printf("%d\n",count);
 	return count;
 }
 
@@ -35,4 +54,5 @@ int main()
 	int num;
 	scanf("%d",&num);
 	countZero(num);
+	countZero1(num);
 }
