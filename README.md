@@ -13,6 +13,7 @@
 |14|[超过一半的数](http://www.jiuzhang.com/problem/14/) | [C++](./OverHalfNumber/OverHalfNumber.cpp)|Medium|
 |7|[树的分层遍历](http://www.jiuzhang.com/problem/7/) | C++|Medium|
 |-|[排列组合子字符串]() | [C++](./subString/permutationSubstring.cpp)|easy|
+|-|[零的个数](http://www.lintcode.com/zh-cn/problem/trailing-zeros/#) | [C++](./countZero/countZero.cpp)|easy|
 |-|二叉树的中序遍历|[C++](./BinaryTreeInorderTraversal/BTreeInorderTravesal.cpp)|Medium|
 |-|第一个只出现一次的数| [C++](./FirstAppearOnce/FirstAppearOnce.cpp)|easy|
 |-|Big Or Little Endian| [C++](./FirstAppearOnce/isBigEndian.cpp)|easy|
