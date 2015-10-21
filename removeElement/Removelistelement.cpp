@@ -10,6 +10,8 @@ Return: 1 --> 2 --> 3 --> 4 --> 5
 
 Credits:
 Special thanks to @mithmatt for adding this problem and creating all test cases.
+
+解答：由于要考虑第一个节点的是否是等于val情况，我们自己产生一个假头结点.
 **********************************************************************************/ 
 
 #include <iostream>
