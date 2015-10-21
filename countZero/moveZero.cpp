@@ -18,6 +18,7 @@ Note:
 #include <algorithm>
 using namespace std;
 
+// 普通
 void moveZero(vector<int>& array)
 {
 	int len = array.size(); 
@@ -40,12 +41,27 @@ void moveZero(vector<int>& array)
 		}
 	}
 }
+// elegant algorithm
+void moveZero1(vector<int>& array)
+{
+	int position = 0;
+	for(int i=0;i<array.size();i++)
+	{
+		if(array[i] != 0)
+			array[position++] = array[i];
+	}
+	//fill in Zero
+	for(;position<array.size();position++)
+	{
+		array[position] = 0;
+	}
+}
 
 int main()
 {
 	int num[] = {0,1,0,3,12};
 	vector<int> array(num,num+5);
-	moveZero(array);
+	moveZero1(array);
 	for(int i = 0;i<array.size();i++)
 	{
 		printf("%d ",array[i]);
