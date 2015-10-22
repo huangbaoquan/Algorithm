@@ -12,7 +12,8 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./BinaryTreeInorderTraversal/BTreePostTraversal.cpp)|Hard|
 |144|[二叉树的先序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./BinaryTreePreorderTraversal/BTreePreorderTraversal.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problemset/algorithms/)| [C++](./SingleNumber/SingleNumber.cpp)|Medium|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./removeElement/moveElement.c)|Easy|
+|83|[Remove Duplicated from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./removeElement/RemoveDuplicatesList.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./removeElement/Removelistelement.cpp)|Easy|
 |18|[复制复杂链表](http://www.jiuzhang.com/problem/18/) | [C++](./CopyLinklist/CopyLinklist.cpp)|Medium|
 |14|[超过一半的数](http://www.jiuzhang.com/problem/14/) | [C++](./OverHalfNumber/OverHalfNumber.cpp)|Medium|
 |7|[树的分层遍历](http://www.jiuzhang.com/problem/7/) | C++|Medium|
