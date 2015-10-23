@@ -9,6 +9,7 @@
 |237|[Delete Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./removeElement/Deletenodelist.cpp)|Easy|
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
 |203|[Remove Linked List Element](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./removeElement/Removelistelement.cpp)|easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./ReverseLinklist/IntersectionLinkedLists.cpp)|easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./BinaryTreeInorderTraversal/BTreePostTraversal.cpp)|Hard|
 |144|[二叉树的先序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./BinaryTreePreorderTraversal/BTreePreorderTraversal.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](./ReverseLinklist/ReorderList.cpp)|Medium|
