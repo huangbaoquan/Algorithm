@@ -16,6 +16,7 @@
 |136|[Single Number](https://leetcode.com/problemset/algorithms/)| [C++](./SingleNumber/SingleNumber.cpp)|Medium|
 |83|[Remove Duplicated from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./removeElement/RemoveDuplicatesList.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./removeElement/Removelistelement.cpp)|Easy|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./swapPairs/swapPairs.cpp)|Medium|
 |18|[复制复杂链表](http://www.jiuzhang.com/problem/18/) | [C++](./CopyLinklist/CopyLinklist.cpp)|Medium|
 |14|[超过一半的数](http://www.jiuzhang.com/problem/14/) | [C++](./OverHalfNumber/OverHalfNumber.cpp)|Medium|
 |7|[树的分层遍历](http://www.jiuzhang.com/problem/7/) | C++|Medium|
