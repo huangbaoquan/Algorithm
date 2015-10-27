@@ -8,6 +8,7 @@
 |260|[Single NumberIII](https://leetcode.com/problems/single-number-iii/) | [C++](./SingleNumber/SingleNumber3.cpp)|Medium|
 |237|[Delete Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./removeElement/Deletenodelist.cpp)|Easy|
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./prime/countPrime.cpp)|easy|
 |203|[Remove Linked List Element](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./removeElement/Removelistelement.cpp)|easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./ReverseLinklist/IntersectionLinkedLists.cpp)|easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./BinaryTreeInorderTraversal/BTreePostTraversal.cpp)|Hard|
