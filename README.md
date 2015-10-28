@@ -5,6 +5,7 @@
 |NO.| Title |Solution|Difficulty|
 |:--| :---: |:----:|:----:|
 |283|[Move Zero](https://leetcode.com/problems/move-zeroes/) | [C++](./countZero/moveZero.cpp)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [C++](./prime/ugly.cpp)|Easy|
 |260|[Single NumberIII](https://leetcode.com/problems/single-number-iii/) | [C++](./SingleNumber/SingleNumber3.cpp)|Medium|
 |237|[Delete Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./removeElement/Deletenodelist.cpp)|Easy|
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
