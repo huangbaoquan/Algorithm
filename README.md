@@ -11,6 +11,7 @@
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./prime/countPrime.cpp)|easy|
 |203|[Remove Linked List Element](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./removeElement/Removelistelement.cpp)|easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./happyNumber/happyNum.cpp)|easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./ReverseLinklist/IntersectionLinkedLists.cpp)|easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./BinaryTreeInorderTraversal/BTreePostTraversal.cpp)|Hard|
 |144|[二叉树的先序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [C++](./BinaryTreePreorderTraversal/BTreePreorderTraversal.cpp)|Medium|
