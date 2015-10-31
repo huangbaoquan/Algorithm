@@ -1,5 +1,7 @@
 # Algorithm 
 ![Travis](https://img.shields.io/badge/build-passing-red.svg)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-green.svg)
+![Language](https://img.shields.io/badge/Language-shell-blue.svg)
 ### LeetCode algorithm
 "&hearts;"
 
