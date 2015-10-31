@@ -11,6 +11,7 @@
 |264|[Ugly NumberII](https://leetcode.com/problems/ugly-number-ii/) | [C++](./prime/UglyNumberII.cpp)|Mudium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [C++](./prime/ugly.cpp)|Easy|
 |260|[Single NumberIII](https://leetcode.com/problems/single-number-iii/) | [C++](./SingleNumber/SingleNumber3.cpp)|Medium|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C](./addDigits/addDigits.c)|Easy|
 |237|[Delete Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./removeElement/Deletenodelist.cpp)|Easy|
 |206|[原地翻转链表](https://leetcode.com/problems/reverse-linked-list/) | [C++](./ReverseLinklist/ReverseLinklist.cpp)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./prime/countPrime.cpp)|easy|
