@@ -1,12 +1,8 @@
 // author : bqhuang
-// date   : 2015/10/22
+// date   : 2015/10/25
 
 /********************************************************************************** 
-* Reverse a singly linked list.
-* click to show more hints.
-* Hint:
-* A linked list can be reversed either iteratively or recursively. 
-* Could you implement both?
+Sort a linked list using insertion sort.
 ***********************************************************************************/ 
 
 #include <iostream>
@@ -52,32 +48,25 @@ void printList(ListNode* L)
 	printf("\n");
 }
 
-/*
- * reverse List
- */
-ListNode* reverseList(ListNode* head) {
-	if(head == NULL)
-		return NULL;
-	ListNode* pre = NULL;
-	ListNode* node = head;
-	ListNode* next = head->next;
-	while(node)
+void Insert(ListNode* myhead,ListNode* node)
+{
+	ListNode* curr = myhead; 
+	while(curr->val< node->val)
 	{
-		node->next = pre;
-		pre = node;
-		node = next;
-		if(node == NULL)
-			return pre;
-		next = next->next;
+		curr = curr->next;
 	}
-	return pre;
 }
 
-int main()
-{
-	ListNode* head = tailInsert(10);
-	printList(head);
 
-	ListNode* reversehead = reverseList(head);
-	printList(reversehead);
+ListNode* InsertionSortList(ListNode* head)
+{
+	ListNode* node = head;
+	ListNode* myhead = new ListNode(0);
+	myhead->next = head;
+	while(node)
+	{
+		ListNode* cur = node;
+		Insert(myhead,cur);
+	}
+	return myhead->next;
 }
