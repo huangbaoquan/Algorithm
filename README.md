@@ -26,6 +26,7 @@
 |83|[Remove Duplicated from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./removeElement/RemoveDuplicatesList.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./removeElement/Removelistelement.cpp)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./swapPairs/swapPairs.cpp)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./mergeSortList/merge2sortedList.cpp)|Easy|
 |18|[复制复杂链表](http://www.jiuzhang.com/problem/18/) | [C++](./CopyLinklist/CopyLinklist.cpp)|Medium|
 |16|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./removeElement/removeNth.cpp)|Easy|
 |14|[超过一半的数](http://www.jiuzhang.com/problem/14/) | [C++](./OverHalfNumber/OverHalfNumber.cpp)|Medium|
